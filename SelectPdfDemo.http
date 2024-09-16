@@ -1,0 +1,6 @@
+@SelectPdfDemo_HostAddress = http://localhost:5076
+
+GET {{SelectPdfDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
